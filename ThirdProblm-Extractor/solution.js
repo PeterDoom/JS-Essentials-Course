@@ -1,3 +1,6 @@
+//https://judge.softuni.bg/Contests/Practice/Index/1492#2 you can find some tests and the requirments for the problem. 
+
+
 function solve() {
 
     let output = document.getElementById('output');
@@ -20,3 +23,5 @@ function solve() {
         output.value += `${result}`
     }
 }
+
+//47*0-9%&+I2'm0#a#stu59%d%e&nt#a9t#So00ft%Uni*!+ try using this as a first test
