@@ -1,3 +1,5 @@
+//https://judge.softuni.bg/Contests/Practice/Index/1492#1 the link for the requirments for the task! and some tests
+
 function solve() {
 
    let buttons = document.querySelectorAll('button')
